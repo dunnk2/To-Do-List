@@ -1,0 +1,10 @@
+﻿body {
+}
+
+.hide {
+    display: none;
+}
+
+.strike {
+    text-decoration: line-through;
+}
